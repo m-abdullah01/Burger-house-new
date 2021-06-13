@@ -1,0 +1,117 @@
+@media (min-width: 0px) and (max-width: 320px) { 
+
+    .header-content h1 {
+        font-size: 58px;}
+
+        .header-content h6 {
+            color: rgb(61, 37, 20);
+            border: 2px dashed rgb(61, 37, 20);
+
+            font-size: 7px;
+            padding: 6px;}
+          .navbar-brand{
+            width: 69%;
+          }
+            .header-content h3 {
+                font-size: 46px;}
+              .logo{
+                width: 71%;
+              }
+              .header-m{
+                margin-bottom: 100px;
+              }
+              .banner-img {
+                position: absolute;
+                bottom: 5%;
+                left: 28%;}
+                .feature-1 {
+                    margin-top: 20px;
+                }
+
+                .feature-2 {
+                    position: relative;
+                    padding-top: 20px;
+                }
+                .feature-img h4 {
+                   
+                    font-size: 14px;
+                }
+            
+            .feature-1 h4 {
+                
+                font-size: 13px;
+            }
+            .feature-2 h4 {
+                position: absolute;
+                left: 5%;
+                top: 21%;
+                color: #fff;
+                font-family: 'Alfa Slab One', cursive;
+                font-size: 14px; }
+
+                .order h5 {
+                    
+                    font-size: 13px;
+                   
+                    letter-spacing: 1px;
+                }
+            
+                .order p {
+                    
+                    font-size: 14px;
+                }
+
+            
+            .reservation h1 {
+               
+                font-size: 37px;
+                
+            }
+            .heading h1 {
+         
+                font-size: 34px;
+               
+            }
+            .media-form {
+                margin-top: -46px !important;
+            }
+            .footer-content ul li {
+                padding-left: 10px;
+                font-size: 10px;
+            }
+
+            .footer-content ul li i {
+                font-size: 9px;
+            }
+
+            .footer-content p {
+                color: #fff;
+                font-size: 12px;
+                text-align: center;
+            }
+
+            .footer-contact ul {
+                display: flex;
+                justify-content: space-between;
+                padding-right: 30px;
+            }
+
+            .footer-contact p {
+
+                font-size: 10px;}
+
+                .footer-contact {
+                    display: flex;
+                    justify-content: space-between;
+                    padding-top: 28px;
+                }
+
+                .footer-content img {
+                    padding-bottom: 27px;
+                    width: 98%;
+                }
+                .media-order {
+                    padding-bottom: 20px;
+                    padding-top: 20px;
+                }
+}
